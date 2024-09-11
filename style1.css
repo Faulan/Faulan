@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    border: 5px blueviolet dashed;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Paragraf1 {
+    color: red;
+    background-color: aquamarine;
+    text-align: justify;
+    font-weight: 700;
+    font-size: larger;
+    margin-top: 50px;
+}
+
+.Paragraf2 {
+    color: blueviolet;
+    background-color: blanchedalmond;
+    text-align: justify;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
